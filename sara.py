@@ -27,7 +27,7 @@ def banner():
     print(w+d+"    ((((("+w+b+",r@@@@@@@@@@e,"+w+d+")))))")
     print(w+d+"      ((("+w+b+"@@@@@@@@@@@@@@@@"+w+d+")))    "+w+b+"SARA - version 1.0")
     print(w+b+"      \@@/"+r+",:::,"+w+b+"\/"+r+",:::,"+w+b+"\@@       "+w+"------------------")
-    print(w+b+"     /@@@|"+r+":::::"+w+b+"||"+r+":::::"+w+b+"|@@@\\     "+w+"Author by "+y+"https://www.facebook.com/nguyenduykhang029offical")
+    print(w+b+"     /@@@|"+r+":::::"+w+b+"||"+r+":::::"+w+b+"|@@@\\     "+w+"Author by "+y+"fb.com/nguyenduykhang029offical")
     print(w+b+"    / @@@\\"+r+"':::'"+w+b+"/\\"+r+"':::'"+w+b+"/@@@ \\    "+w+"The author is not responsible")
     print(w+b+"   /  /@@@@@@@//\\\@@@@@@@\  \\   "+w+"for any issues or damage")
     print(w+b+"  (  /  '@@@@@====@@@@@'  \  )  "+w+"caused by this program")
@@ -142,4 +142,4 @@ if __name__ == "__main__":
     try:
         start()
     except KeyboardInterrupt:
-        exit(r+"\n[!]"+w+" Thanks for Using this tools\n    follow us \033[4mhttps://github.com/termuxhackers-id\033[0m\n    exiting ...")
+        exit(r+"\n[!]"+w+" Thanks for Using this tools\n    follow us \033[4mfb.com/nguyenduykhang029offical[0m\n    exiting ...")
