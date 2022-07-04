@@ -13,13 +13,9 @@ User can customize:
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/nguyenduykhang17062009/toolransomeware && cd SARA && sudo bash install.sh
+git clone https://github.com/nguyenduykhang17062009/toolransomeware && cd toolransomeware && sudo bash install.sh
 ```
 
-Quick installation for Termux Android (ROOT)
-````bash
-apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/nguyenduykhang17062009/toolransomeware && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
-````
 
 
 
